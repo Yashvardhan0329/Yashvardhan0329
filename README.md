@@ -24,7 +24,7 @@ management.
 and improved operational efficiency for gym owners.
 
 ### **🔥 Recent Projects**  
-- [Project 2](JournalEntryApplication) -Spring Boot and MongoDB
+- [Project 2] (JournalEntryApplication) -Spring Boot and MongoDB
 – Designed and developed a Spring Boot application enabling users to securely store and manage journal entries.
 – Implemented secure user authentication with username and password for accessing personal entries.
 – Supported structured journal entries with fields like ObjectId, title, content, and timestamp using LocalDateTime.
